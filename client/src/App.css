@@ -1,0 +1,24 @@
+body{
+  background-color: antiquewhite;
+  width: 50%;
+  margin: 0 auto;
+}
+
+header{
+  text-align: center;
+  font-family: sans-serif;
+}
+header h1{
+  font-size: 100px;
+  color: rgb(4, 66, 46);
+  font-weight: 300;
+}
+
+input{
+  font-size: 26px;
+  width: 100%;
+  background-color: antiquewhite;
+  border: none;
+  outline: none;
+  border-bottom: solid 2px green;
+}
